@@ -1,4 +1,4 @@
-# Real-Time Health Data Processing and Enrichment
+# [Real-Time Health Data Processing and Enrichment]()
 
 This project provides a step-by-step roadmap to develop a solution that ingests and processes simulated real-time health data (e.g., heart rate, steps, sleep patterns) from wearable devices or fitness trackers. The solution enriches this data with relevant external knowledge using an LLM-based retrieval-augmented generation (RAG) approach, leveraging **Pathway pipelines** and **Pathway vector store**. The embeddings are created using the **Ollama Llama 3.1 model**, ensuring the insights remain up-to-date and actionable.
 
